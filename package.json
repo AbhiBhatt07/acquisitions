@@ -11,7 +11,8 @@
     "#routes/*": "./src/routes/*",
     "#scripts/*": "./src/scripts/*",
     "#services/*": "./src/services/*",
-    "#validations/*": "./src/validations/*"
+    "#validations/*": "./src/validations/*",
+    "#utils/*": "./src/utils/*"
   },
   "scripts": {
     "dev": "node --watch src/index.js",
@@ -38,6 +39,7 @@
   "homepage": "https://github.com/AbhiBhatt07/acquisitions#readme",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
+    "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
