@@ -135,3 +135,12 @@
 {"level":"info","message":"::1 - - [03/Dec/2025:21:11:34 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-03T21:11:34.200Z"}
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-12-03T21:11:35.476Z","userAgent":"HTTPie"}
 {"level":"info","message":"::1 - - [03/Dec/2025:21:11:35 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-03T21:11:35.483Z"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:07 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:07.436Z"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:08 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:08.803Z"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:09 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:09.627Z"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:10 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:10.418Z"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:11 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:11.160Z"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-12-04T01:11:11.948Z","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:11 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:11.950Z"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-12-04T01:11:12.548Z","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [04/Dec/2025:01:11:12 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"HTTPie\"","service":"acquisitions-api","timestamp":"2025-12-04T01:11:12.550Z"}
